@@ -1,0 +1,5 @@
+!pip install phik -q
+!pip install scikit-learn --upgrade -q
+!pip install shap==0.44.0 -q
+!pip install lightgbm==3.3.5 -q
+!pip install catboost -q
